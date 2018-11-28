@@ -38,3 +38,32 @@ a {
   text-decoration: none;
   margin-right: 60px;
 }
+
+.wrap-bottons {
+  position: relative;
+  float: right;
+  top: 750px;
+}
+
+.add {
+  height: 60px;
+  width: 200px;
+  background-color: rgba(37, 44, 65, 0);
+  border: solid 2px #fff;
+  color: #fff;
+  font-family: Arial, 'Roboto', Helvetica, sans-serif;
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+.comprar {
+  height: 60px;
+  width: 200px;
+  background-color: #252c41;
+  border: solid 2px #252c41;
+  color: #fff;
+  font-family: Arial, 'Roboto', Helvetica, sans-serif;
+  font-size: 20px;
+  margin-right: 50px;
+
+}
