@@ -1,0 +1,47 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(to top, #ff2e63, #252a34);
+}
+
+.header-store {
+  background-color: #e24647;
+  margin-bottom: 100px;
+}
+
+.title, .action {
+  color: #fff;
+}
+
+.title {
+  display: inline-block;
+  /* margin-left: 62px;
+  margin-top: 55px; */
+  font-size: 40px;
+  font-family: Arial, 'Roboto', Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.navigation {
+  /* margin-top: 55px; */
+  float: right;
+  font-size: 21px;
+  font-family: 'Segoe UI', 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.action {
+  margin-right: 60px;
+  text-decoration: none;
+}
+
+.action:last-child {
+  margin-right: 0;
+}
+
+.wrap-buttons {
+  float: right;
+  position: relative;
+  top: 750px;
+}
+
+
